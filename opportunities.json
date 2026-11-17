@@ -1,4 +1,47 @@
 {
-  "updatedAt": "2026-11-17T00:00:00Z",
-  "items": []
+  "updatedAt": "2026-11-17T18:30:00Z",
+  "items": [
+    {
+      "id": "https://vu.nl/en/education/master/public-administration-artificial-intelligence-and-governance",
+      "title": "MSc Public Administration: Artificial Intelligence and Governance",
+      "organization": "Vrije Universiteit Amsterdam",
+      "area": "AI",
+      "type": "Mestrado",
+      "location": "Amesterdão, Países Baixos",
+      "region": "Internacional",
+      "workMode": "Presencial",
+      "deadline": null,
+      "posted": null,
+      "url": "https://vu.nl/en/education/master/public-administration-artificial-intelligence-and-governance",
+      "summary": "Mestrado de 1 ano sobre como algoritmos e automação mudam a decisão no setor público — cruza AI com governação."
+    },
+    {
+      "id": "https://www.oecd.org/en/about/careers/internships.html",
+      "title": "Programa de estágios da OCDE",
+      "organization": "OCDE",
+      "area": "Políticas Públicas",
+      "type": "Estágio",
+      "location": "Paris, França (e outros)",
+      "region": "Internacional",
+      "workMode": "Presencial",
+      "deadline": "2026-12-31",
+      "posted": null,
+      "url": "https://www.oecd.org/en/about/careers/internships.html",
+      "summary": "Candidaturas contínuas até 31 de dezembro de 2026 para estágios em políticas públicas internacionais."
+    },
+    {
+      "id": "https://careers.unesco.org/internship-programme/?locale=en_GB",
+      "title": "Programa de estágios da UNESCO",
+      "organization": "UNESCO",
+      "area": "Relações Internacionais",
+      "type": "Estágio",
+      "location": "Paris, França (e outros)",
+      "region": "Internacional",
+      "workMode": "Presencial",
+      "deadline": null,
+      "posted": null,
+      "url": "https://careers.unesco.org/internship-programme/?locale=en_GB",
+      "summary": "Pool de talento contínuo para estágios em organizações internacionais."
+    }
+  ]
 }
